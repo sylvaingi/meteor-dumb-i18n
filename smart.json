@@ -1,0 +1,8 @@
+{
+  "name": "dumb-i18n",
+  "description": "i18n as simple as it gets for Meteor",
+  "homepage": "https://github.com/sylvaingi/meteor-dumb-i18n",
+  "author": "Sylvain Gizard (https://github.com/sylvaingi)",
+  "version": "0.0.1",
+  "git": "https://github.com/sylvaingi/meteor-dumb-i18n.git"
+}
